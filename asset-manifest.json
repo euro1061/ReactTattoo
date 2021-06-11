@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TattooReact/static/css/main.d069bae8.chunk.css",
+    "main.js": "/TattooReact/static/js/main.d0fd4689.chunk.js",
+    "main.js.map": "/TattooReact/static/js/main.d0fd4689.chunk.js.map",
+    "runtime-main.js": "/TattooReact/static/js/runtime-main.d62da87b.js",
+    "runtime-main.js.map": "/TattooReact/static/js/runtime-main.d62da87b.js.map",
+    "static/js/2.f0447e36.chunk.js": "/TattooReact/static/js/2.f0447e36.chunk.js",
+    "static/js/2.f0447e36.chunk.js.map": "/TattooReact/static/js/2.f0447e36.chunk.js.map",
+    "index.html": "/TattooReact/index.html",
+    "static/css/main.d069bae8.chunk.css.map": "/TattooReact/static/css/main.d069bae8.chunk.css.map",
+    "static/js/2.f0447e36.chunk.js.LICENSE.txt": "/TattooReact/static/js/2.f0447e36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d62da87b.js",
+    "static/js/2.f0447e36.chunk.js",
+    "static/css/main.d069bae8.chunk.css",
+    "static/js/main.d0fd4689.chunk.js"
+  ]
+}
